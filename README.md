@@ -6,12 +6,20 @@
 
 - ❤️ I’m currently working on [PostPaddy](https://postpaddy.com)
 - 🌱 I’m proficient with PHP, JavaScript, Typescript, NodeJS, Laravel, React, GraphQL.
-- 👯 I’m looking to connect and collaborate with more people intrigued by Tech
+- 👯 I’m looking to connect and collaborate with more people intrigued with building scalable products with great user experience.
 - 💼 Portfolio: [My Website](https://mojeed.dev)
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: When I'm not Coding or Studying, I'm learning some new stuffs, enjoying good music or playing tennis 🎾
 - 💡 Job interests: Backend Engineer and Software Engineer.
 
 :mailbox: Reach out to me!
+
+[![Twitter Badge](https://img.shields.io/badge/-@_m0j33d-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/m0j33d)](https://twitter.com/m0j33d) [![Linkedin Badge](https://img.shields.io/badge/-Mojeed%20Adeoye-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mojeedeji/) [![Mail Badge](https://img.shields.io/badge/-Mojeed%20Adeoye-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mojeedeji16@gmail.com)
+
+
+#### Top Technologies
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Vue Badge](https://img.shields.io/badge/-Vue-41b883?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=41b883)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Python Badge](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#) [![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![Nestjs Badge](https://img.shields.io/badge/-nestjs-e0234e?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=e0234e)](#) [![AWS Badge](https://img.shields.io/badge/-aws-FF9900?style=for-the-badge&labelColor=black&logo=amazon-web-services&logoColor=FF9900)](#) [![Terraform Badge](https://img.shields.io/badge/-terraform-623CE4?style=for-the-badge&labelColor=black&logo=terraform&logoColor=623CE4)](#) [![Jenkins Badge](https://img.shields.io/badge/-jenkins-D24939?style=for-the-badge&labelColor=black&logo=jenkins&logoColor=D24939)](#) [![Docker Badge](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](#) [![Kubernetes Badge](https://img.shields.io/badge/-kubernetes-326CE5?style=for-the-badge&labelColor=black&logo=kubernetes&logoColor=326CE5)](#) 
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=m0j33d)
 
