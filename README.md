@@ -5,7 +5,7 @@
 -->
 
 - ❤️ I’m currently working on [PostPaddy](https://postpaddy.com)
-- 🌱 I’m proficient with PHP, JavaScript, Typescript, NodeJS, Laravel, React, GraphQL.
+- 🌱 I’m proficient with PHP, JavaScript, Pyhton, Typescript, NodeJS, Laravel, React, GraphQL.
 - 👯 I’m looking to connect and collaborate with more people intrigued with building scalable products with great user experience.
 <!-- - 💼 Portfolio: [My Website](https://mojeed.dev) -->
 - ⚡ Fun fact: When I'm not Coding or Studying, I'm learning some new stuffs, enjoying good music or playing tennis 🎾
