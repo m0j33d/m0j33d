@@ -4,13 +4,6 @@
 **m0j33d/m0j33d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- ❤️ I’m currently working on [PostPaddy](https://postpaddy.com)
-- 🌱 I’m proficient with PHP, JavaScript, Python, TypeScript, NodeJS, Laravel, React, and GraphQL.
-- 👯 I’m looking to connect and collaborate with more people intrigued with building scalable products with great user experience.
-<!-- - 💼 Portfolio: [My Website](https://mojeed.dev) -->
-- ⚡ Fun fact: When I'm not Coding or Studying, I'm learning some new stuff, enjoying good music, or playing tennis 🎾
-- 💡 Job interests: Backend Engineer and Full Stack Engineer roles.
-
 :mailbox: Reach out to me!
 
 [![Twitter Badge](https://img.shields.io/badge/-@_m0j33d-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/m0j33d)](https://twitter.com/m0j33d) [![Linkedin Badge](https://img.shields.io/badge/-Mojeed%20Adeoye-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mojeedeji/) [![Mail Badge](https://img.shields.io/badge/-Mojeed%20Adeoye-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mojeedeji16@gmail.com)
@@ -24,11 +17,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=m0j33d.m0j33d)
 
-<details>
-  <summary>
-    See more about me
-  </summary>
-<br >
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=m0j33d&count_private=true&show_icons=true&theme=radical)
 
