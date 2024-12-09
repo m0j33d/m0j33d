@@ -16,7 +16,3 @@
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=m0j33d.m0j33d)
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=m0j33d&count_private=true&show_icons=true&theme=radical)
-
