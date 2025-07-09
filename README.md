@@ -6,7 +6,7 @@
 
 :mailbox: Reach out to me!
 
-[![Twitter Badge](https://img.shields.io/badge/-@_m0j33d-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/m0j33d)](https://twitter.com/m0j33d) [![Linkedin Badge](https://img.shields.io/badge/-Mojeed%20Adeoye-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mojeedeji/) [![Mail Badge](https://img.shields.io/badge/-Mojeed%20Adeoye-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mojeedeji16@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@_m0j33d-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/m0j33d)](https://twitter.com/m0j33d) [![Mail Badge](https://img.shields.io/badge/-Mojeed%20Adeoye-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mojeedeji16@gmail.com)
 
 
 #### Top Technologies
